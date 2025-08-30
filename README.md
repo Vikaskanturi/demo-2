@@ -7,5 +7,5 @@ This is to add the new line
 <p>This is paragraph </p>
 
 <footer>
-<p>copyright protected{hi}
+<p>copyright protected{submit}</p>
 </footer>
